@@ -182,7 +182,7 @@ li,
   position: fixed;
   bottom: 400px;
   right: 0px;
-  background-color: #25d366;
+  /* background-color: #25d366; */
   color: white;
   border: none;
   border-radius: 50%;
